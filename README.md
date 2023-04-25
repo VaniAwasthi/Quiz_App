@@ -17,5 +17,4 @@
 <p> sixth Question</br>![Screenshot 2023-04-25 162236](https://user-images.githubusercontent.com/83571284/234256965-d7754817-c631-45bc-9e88-828cec1a116b.png)</p>
 
 <h4>Result board</h4>
-
 ![Screenshot 2023-04-25 162248](https://user-images.githubusercontent.com/83571284/234257134-ac2841be-8ef5-43a4-956d-f5102e00020f.png)
